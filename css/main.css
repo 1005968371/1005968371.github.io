@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
      background: url("http://weknowyourdreams.com/images/dragon/dragon-06.jpg") no-repeat top center;
+    background-size: cover;
     background-attachment:fixed;
 }
 nav ul, footer ul {
