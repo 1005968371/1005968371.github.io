@@ -40,10 +40,11 @@ h3 {Color:Purple;
     font-family: Times New Roman;
 }
 p {
+    border:10px solid red;
     font-family: Georgia, Garamond, serif;
     font-size: 1.5em;
     line-height: 1.4em;
-    color:SkyBlue;
+    color:White;
 }
 footer {
     border-top: 1px solid #d5d5d5;
