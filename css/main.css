@@ -24,6 +24,7 @@ a:hover {
 }
 h1 {
     border:10px solid red;
+    background:black
     Color: LightBlue;
     font-size: 3em;
     font-family:''Arial', 'Sans-Serif';
@@ -41,6 +42,7 @@ h3 {Color:Purple;
 }
 p {
     border:10px solid red;
+    background:black
     font-family: Georgia, Garamond, serif;
     font-size: 1.5em;
     line-height: 1.4em;
