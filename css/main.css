@@ -24,7 +24,8 @@ a:hover {
 }
 h1 {
     border: solid;
-    Color: LightBlue;
+    border color: Red;
+    Font Color: LightBlue;
     font-size: 3em;
     font-family:''Arial', 'Sans-Serif';
 }
