@@ -23,8 +23,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    border: solid;
-    border color: Red;
+    border: solid red;
+    
     Font Color: LightBlue;
     font-size: 3em;
     font-family:''Arial', 'Sans-Serif';
