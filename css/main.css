@@ -23,15 +23,16 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    Font Color: LightBlue;
+    Color: LightBlue;
     font-size: 3em;
     font-family:''Arial', 'Sans-Serif';
     border: solid red;
 }
 h2{
-    Color:Red;
+
     font-size: 50px;
     font-family: Times New Roman;
+    Color:Red;
 }
 h3 {Color:Purple;
     font-size: 50px;
