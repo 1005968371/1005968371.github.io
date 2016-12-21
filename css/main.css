@@ -71,6 +71,9 @@ table{
      border:10px solid Yellow;
     
 }
+.other{
+    color:blue;
+}
     
 /* Rectangle Out */
 .hvr-rectangle-out {
@@ -105,7 +108,7 @@ table{
   transition-timing-function: ease-out;
 }
 .hvr-rectangle-out:hover, .hvr-rectangle-out:focus, .hvr-rectangle-out:active {
-  color: white;
+  color: Purple;
 }
 .hvr-rectangle-out:hover:before, .hvr-rectangle-out:focus:before, .hvr-rectangle-out:active:before {
   -webkit-transform: scale(1);
