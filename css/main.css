@@ -97,7 +97,7 @@ table{
   left: 0;
   right: 0;
   bottom: 0;
-  background: #2098D1;
+  background: Purple;
   -webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition-property: transform;
@@ -108,7 +108,7 @@ table{
   transition-timing-function: ease-out;
 }
 .hvr-rectangle-out:hover, .hvr-rectangle-out:focus, .hvr-rectangle-out:active {
-  color: Purple;
+  color: purple;
 }
 .hvr-rectangle-out:hover:before, .hvr-rectangle-out:focus:before, .hvr-rectangle-out:active:before {
   -webkit-transform: scale(1);
