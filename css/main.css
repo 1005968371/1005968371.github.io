@@ -97,7 +97,7 @@ table{
   left: 0;
   right: 0;
   bottom: 0;
-  background: Purple;
+  background: #2098D1;
   -webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition-property: transform;
